@@ -1,0 +1,23 @@
+{
+  "name": "tckimlik",
+  "version": "1.0.0",
+  "description": "A tool for validate Turkish Identification Number. Deno version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanalgur/tckimlik.git"
+  },
+  "keywords": [
+    "tckimlik",
+    "istckimlik"
+  ],
+  "author": "Serkan Algur <info@wpadami.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serkanalgur/tckimlik/issues"
+  },
+  "homepage": "https://github.com/serkanalgur/tckimlik#readme"
+}
